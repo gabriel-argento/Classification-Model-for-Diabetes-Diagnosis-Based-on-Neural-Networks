@@ -1,4 +1,4 @@
-# Classification-Model-for-Diabetes-Diagnosis-Based-on-Neural-Networks-Multilayer-Perceptron-MLP
+# Classification Model for Diabetes Diagnosis Based on Neural Networks
 
 ENG [PT BELOW]:
 
@@ -8,6 +8,7 @@ The complete code used for data preprocessing, model development, training, and 
 
 A detailed report covering all stages of the project—including exploratory data analysis, model optimization, performance evaluation, and conclusions—is available in "Report (Multilayer Perceptron - MLP).pdf".
 
+# Modelo de Classificação para Diagnóstico de Diabetes Baseado em Redes Neurais
 
 PT:
 
